@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UAS 180030442 2</string>
+    <string name="ganti_foto">Ganti Sampul</string>
+    <string name="first_name">Judul Buku</string>
+    <string name="last_name">Penulis</string>
+    <string name="number">Tahun</string>
+    <string name="email">Penerbit</string>
+    <string name="save">Simpan</string>
+    <string name="add">Tambah Buku</string>
+    <string name="edit">Edit Buku</string>
+    <string name="delete">Hapus Buku</string>
+    <string name="gender_male">Ada</string>
+    <string name="gender_female">Kosong</string>
+</resources>
